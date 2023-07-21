@@ -11,3 +11,5 @@
 <img src="PUBLIC/images/css.png">
 <h2>Punto 4: Titulo de color</h2>
 <img src="PUBLIC/images/punto4.png">
+<h2>Punto 5: Tipos de texto</h2>
+<img src="PUBLIC/images/punto5.png">
