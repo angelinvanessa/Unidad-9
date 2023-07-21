@@ -13,3 +13,5 @@
 <img src="PUBLIC/images/punto4.png">
 <h2>Punto 5: Tipos de texto</h2>
 <img src="PUBLIC/images/punto5.png">
+<h2>Punto 6:Enlaces</h2>
+<img src="PUBLIC/images/punto6.png">
