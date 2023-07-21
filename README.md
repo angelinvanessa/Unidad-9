@@ -15,3 +15,6 @@
 <img src="PUBLIC/images/punto5.png">
 <h2>Punto 6:Enlaces</h2>
 <img src="PUBLIC/images/punto6.png">
+<h2>Punto 7-8: Nav</h2>
+<img src="PUBLIC/images/punto7.png">
+<img src="PUBLIC/images/punto8.png">

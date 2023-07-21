@@ -1,0 +1,22 @@
+nav{
+    background-color: plum;
+}
+nav ul{
+    width: 35%;
+    display: flex;
+    list-style: none;
+}
+nav ul li{
+    width: 90px;
+    height: 50px;
+    margin: 10px 20px;
+    padding: 10px 5px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 20px;
+    height: min-content;
+    color: #fff;
+}
+nav ul li:hover{
+    background-color: blue;
+}
