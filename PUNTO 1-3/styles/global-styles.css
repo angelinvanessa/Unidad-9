@@ -12,3 +12,22 @@ button{
     border-radius: 10px;
     cursor: pointer;
 }
+.button--orange{
+    margin-right: 10px;
+    background-color: #fd9095;
+    color: #fff;
+    border: none;
+}
+p{
+    font-family: 'Jost';
+    font-size: 15px;
+    font-weight: 300;
+}
+h2{
+    margin: 5px 0px;
+    color: #454868;
+    font-family: 'Jost';
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: -0.64px;
+}
