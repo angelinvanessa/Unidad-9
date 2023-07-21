@@ -1,0 +1,20 @@
+table{
+    background-color: yellow;
+    border: 1px dotted #000;
+    width: 700px;
+}
+table th{
+    width: 50%;
+    border-bottom: 1px dotted #000;
+    color: red;
+}
+table tr td{
+    border-bottom: 1px dotted #000;
+}
+.peso{
+    border-left: 1px dotted #000;
+}
+.text{
+    text-align: left;
+    border: none;
+}

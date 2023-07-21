@@ -18,3 +18,5 @@
 <h2>Punto 7-8: Nav</h2>
 <img src="PUBLIC/images/punto7.png">
 <img src="PUBLIC/images/punto8.png">
+<h2>Punto 9: Tabla</h2>
+<img src="PUBLIC/images/punto9.png">
